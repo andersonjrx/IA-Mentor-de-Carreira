@@ -1,110 +1,65 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+# 📊 Análise e Sugestão de Carreiras
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+Com base no seu perfil, identifiquei **3 carreiras muito promissoras**:
 
-</p>
+---
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+## 🥇 1º Lugar: Desenvolvedor Web Full Stack – 18/20
 
-<br/>
-<br/>
+### 💡 Por que combina com você
+Você gosta de resolver problemas e criar produtos, tem interesse direto em desenvolvimento web e bastante tempo para estudar. Essa carreira te dá contato com pessoas (trabalhando em equipe), mas também com código e construção de soluções reais.
 
-## 💻 Sobre o Projeto
+### ⚖️ O que esperar
+**Vantagens:**
+- Alta demanda de mercado para iniciantes  
+- Possibilidade de criar projetos próprios e portfólio rápido  
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+**Desafios:**
+- Aprender várias tecnologias (frontend + backend)  
+- Competição alta para vagas de estágio e primeiro emprego  
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+### 📈 Mercado
+O mercado de desenvolvimento web é muito aquecido, especialmente para quem domina frameworks modernos. A demanda varia por região e experiência, mas é uma das portas de entrada mais comuns para quem busca o primeiro emprego em tecnologia.
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+---
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+## 🥈 2º Lugar: Cientista de Dados Júnior (com foco em IA) – 16/20
 
-- _Exemplo_:
+### 💡 Por que combina com você
+Seu interesse em inteligência artificial e resolver problemas complexos se encaixa bem aqui. Apesar de exigir mais matemática e estatística, você tem tempo de estudo e disciplina para se preparar.
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+### ⚖️ O que esperar
+**Vantagens:**
+- Área em crescimento acelerado  
+- Projetos desafiadores e inovadores  
 
-- [Outros pré-requisitos, se aplicável]
+**Desafios:**
+- Ramp-up mais longo até se tornar júnior  
+- Necessidade de aprender ferramentas de dados e machine learning  
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+### 📈 Mercado
+A área de dados e IA está em expansão global. A demanda varia por região, mas empresas de todos os setores estão buscando profissionais que entendam dados e inteligência artificial.
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+---
 
-- [Lista das habilidades principais a serem desenvolvidas]
+## 🥉 3º Lugar: Analista de Produto / Tech Product Owner – 14/20
 
-  - [Subhabilidades relacionadas, se aplicável]
+### 💡 Por que combina com você
+Você mencionou preferência por lidar com pessoas. Essa carreira conecta tecnologia com negócios, permitindo que você participe da criação de produtos digitais sem ficar 100% focado em código.
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+### ⚖️ O que esperar
+**Vantagens:**
+- Forte interação com equipes multidisciplinares  
+- Papel estratégico na criação de soluções  
 
-## 🎯 Objetivos e Resultados Esperados
+**Desafios:**
+- Precisa desenvolver visão de negócio além da técnica  
+- Ramp-up depende de experiência prática em projetos  
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+### 📈 Mercado
+O papel de Product Owner/Analista de Produto é cada vez mais valorizado em empresas digitais. A demanda varia por região e maturidade das empresas, mas é uma função em crescimento.
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+---
 
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+## ✅ Conclusão
+Essas três carreiras representam caminhos sólidos e promissores para você. A escolha dependerá do quanto deseja se aprofundar em código, dados ou estratégia de produto.
